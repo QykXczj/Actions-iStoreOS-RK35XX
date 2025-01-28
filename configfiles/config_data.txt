@@ -1,4 +1,4 @@
-# CONFIG_TARGET_DEVICE_rockchip_rk35xx_DEVICE_mangopi_m28k is not set
+CONFIG_TARGET_DEVICE_rockchip_rk35xx_DEVICE_mangopi_m28k=y
 # CONFIG_TARGET_DEVICE_rockchip_rk35xx_DEVICE_nlnet_xgp is not set
 # CONFIG_TARGET_DEVICE_rockchip_rk35xx_DEVICE_armsom_sige1 is not set
 
